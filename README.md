@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/7f889eba1ebfc1a29792fa7d1080a6cad37028b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b697474696e616e2673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135
+![Code Chappie's github stats](https://github-readme-stats.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
