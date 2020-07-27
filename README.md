@@ -62,7 +62,6 @@ You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourc
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats)
 
@@ -79,6 +78,9 @@ You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourc
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
  -->
+ 
+[![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codechappie.codechappie" alt="visitor badge"/>       
