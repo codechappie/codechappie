@@ -1,12 +1,10 @@
 ### Hi there 👋
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png)
 
-**codechappie/codechappie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **codechappie/codechappie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a Developer Team Member 🙍🏽‍♂️ [@arcadepapel2020](https://github.com/arcadepapel2020), Freelancer 👨🏽‍💻, Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy eating food and traveling.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-  
+ 
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
