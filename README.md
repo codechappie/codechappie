@@ -53,6 +53,11 @@ I have a knack for writing too and write on my personal blog- [Garima Codes](htt
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 -->
 
+<!-- [![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) -->
+
+![Code Chappie's github stats](https://github-readme-stats-teal-five.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
 ### 📫 How to reach me?
 If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/in/codechappie/). You can also ask me anything (within reason).
 <!--
@@ -72,13 +77,7 @@ You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourc
 <!-- <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
 </p>
  
-
-[![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats)
-
-![Code Chappie's github stats](https://github-readme-stats-teal-five.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-<p  align="center">
+<p align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codechappie.codechappie" alt="visitor badge"/>       
 </p>
