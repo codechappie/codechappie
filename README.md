@@ -5,7 +5,7 @@
 
 Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a Developer Team Member 🙍🏽‍♂️ [@arcadepapel2020](https://github.com/arcadepapel2020), Freelancer 👨🏽‍💻, Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy eating food and traveling.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
