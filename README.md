@@ -24,7 +24,7 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a D
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/firebase.png"></code>
