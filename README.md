@@ -18,17 +18,20 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a D
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code>
 <!--
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
