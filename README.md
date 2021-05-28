@@ -1,23 +1,21 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png)
+<!-- ![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png) -->
 
-<!-- **codechappie/codechappie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a Developer Team Member 🙍🏽‍♂️ [@arcadepapel2020](https://github.com/arcadepapel2020), Freelancer 👨🏽‍💻, Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Angel Canales, a Front-end Developer 🚀 from Peru, currently, I'm freelancer 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
  
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
-- 🌱 I’m currently learning Mixed Reality, React and Python; 
-- 👯 I’m looking to collaborate on [Fazt Community](https://github.com/faztcommunity/) 🤝;
-- 🤔 I’m looking for help with Mixed Reality 😭;
+- 🌱 I’m currently learning Nest and React Native; 
+- 👯 I'm collaborating on [Fazt Community](https://github.com/faztcommunity/) 🤝;
+<!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: davidproyecto01@gmail.com;
+- 📫 How to reach me: codechappie@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
 
 **Languages and Tools:**  
-
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/npm.png"></code>
@@ -31,7 +29,7 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Perú, currently, I'm a D
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code> -->
 <!--
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
@@ -62,14 +60,14 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 
 
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/in/codechappie/). You can also ask me anything (within reason).
+If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/company/codechappie). You can also ask me anything (within reason).
 <!--
 ### 💬 Want to know more about me?
 You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourcerer](https://sourcerer.io/garimasingh128).
 
- 
+ -->
 [![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
--->
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
