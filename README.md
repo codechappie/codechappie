@@ -73,13 +73,13 @@ You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourc
 
 <p align="center">
 <a href= "https://github.com/codechappie/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/codechappie/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/company/codechappie/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/codechappie"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <!-- <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
 </p>
  
 <p align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codechappie.codechappie" alt="visitor badge"/>       
 </p>
 
