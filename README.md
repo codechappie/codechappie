@@ -15,6 +15,13 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Peru, currently, I'm free
 
 
 **Languages and Tools:**  
+- 👨‍💻 HTML5 & CSS3
+- 👨‍💻 JavaScript
+- 👨‍💻 React
+- 👨‍💻 node
+- 👨‍💻 npm
+- 👨‍💻 Git
+- 👨‍💻 Vercel
 <!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
