@@ -11,15 +11,15 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Peru, currently, I'm free
 <!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davidproyecto01@gmail.com;
-<!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
+- 📝[Resume](https://curriculum-git-master-codechappie.vercel.app/)
 
 
 **Languages and Tools:**  
 - 👨‍💻 HTML5 & CSS3
 - 👨‍💻 JavaScript
 - 👨‍💻 React
-- 👨‍💻 node
-- 👨‍💻 npm
+- 👨‍💻 Node
+- 👨‍💻 Npm
 - 👨‍💻 Git
 - 👨‍💻 Vercel
 <!-- 
