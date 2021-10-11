@@ -10,7 +10,7 @@ Hi, I'm Angel Canales, a Front-end Developer 🚀 from Peru, currently, I'm free
 - 👯 I'm collaborating on [Fazt Community](https://github.com/faztcommunity/) 🤝;
 <!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: codechappie@gmail.com;
+- 📫 How to reach me: davidproyecto01@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
 
@@ -67,12 +67,12 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 
 
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/company/codechappie). You can also ask me anything (within reason).
-<!--
+If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://pe.linkedin.com/in/canalesalcalde). You can also ask me anything (within reason).
+
 ### 💬 Want to know more about me?
-You can find me on- [My personal portfolio](http://garimasingh.me) and on [Sourcerer](https://sourcerer.io/garimasingh128).
+You can find me on - [My website](http://garimasingh.me)(in development).
 
-
+<!--
 [![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
  -->
 <p align="center">
