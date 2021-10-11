@@ -70,7 +70,7 @@ I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate�
 If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://pe.linkedin.com/in/canalesalcalde). You can also ask me anything (within reason).
 
 ### 💬 Want to know more about me?
-You can find me on - [My website](http://garimasingh.me)(in development).
+You can find me on - [My website](http://codechappie.com) (in development).
 
 <!--
 [![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
