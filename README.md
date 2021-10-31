@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png) -->
 
-Hi, I'm Angel Canales, a Front-end Developer 🚀 from Peru, currently, I'm freelancer 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
+Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm freelancer 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
  
 **Talking about Personal Stuffs:**
 
