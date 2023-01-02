@@ -11,7 +11,7 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm freela
 <!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: davidproyecto01@gmail.com;
-- 📝[Resume](https://curriculum-git-master-codechappie.vercel.app/)
+- 📝[Resume](https://curriculum.codechappie.com)
 
 
 **Languages and Tools:**  
