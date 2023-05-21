@@ -15,13 +15,7 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 
 
 **Languages and Tools:**  
-<!-- - 👨‍💻 HTML5 & CSS3
-- 👨‍💻 JavaScript
-- 👨‍💻 React
-- 👨‍💻 Node
-- 👨‍💻 Npm
-- 👨‍💻 Git
-- 👨‍💻 Vercel -->
+💻 HTML5, CSS3, JavaScript, React, Next.js, Node, Npm, Bootstrap, Python, Firebase, Git & GitHub & GitLab & Bitbucket.
 
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
@@ -50,20 +44,18 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 ### ⚡ One line that describes me best? 
 A person who likes to share things I have learned and am still learning.😉😉
 
-
 ### 👯 My other interests
 I have a blog that you can visit, where I share experiences, recommendations, and more. [CodeChappie Blog](https://codechappie.com/blog)
+
+### 📫 How to reach me?
+If you would like to discuss these things, you can write me on [Twitter](https://twitter.com/codechappie), [LinkedIn](https://www.linkedin.com/company/codechappie) or [any other social media](https://codechappie.com/enlaces). You can also ask me anything (within reason).
+
+### 💬 Want to know more about me?
+You can find me on - [My website](http://codechappie.com/)
 
 [![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
 
 ![Code Chappie's github stats](https://github-readme-stats-teal-five.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/company/codechappie). You can also ask me anything (within reason).
-
-### 💬 Want to know more about me?
-You can find me on - [My website](http://codechappie.com/)
 
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
