@@ -65,9 +65,6 @@ If you would like to discuss these things, you can join me on [Twitter](https://
 ### 💬 Want to know more about me?
 You can find me on - [My website](http://codechappie.com/)
 
-
-[![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
-
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
@@ -79,8 +76,5 @@ You can find me on - [My website](http://codechappie.com/)
 </p>
  
 <p align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codechappie.codechappie" alt="visitor badge"/>       
-</p>
-
 </p>
