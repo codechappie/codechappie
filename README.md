@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png) -->
 
-Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
+Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! Besides programming, I enjoy watching tv series and traveling.
  
 **Talking about Personal Stuffs:**
 
@@ -38,11 +38,6 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code> 
 
-
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
-
-
 ##### Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
@@ -51,26 +46,24 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](https://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
-<!--
+
 ### ⚡ One line that describes me best? 
-An ambitious young who loves code,  and sometime codes too.😉😉
+A person who likes to share things I have learned and am still learning.😉😉
 
 
 ### 👯 My other interests
-I have a knack for writing too and write on my personal blog- [Garima Codes](https://garimasingh.netlify.app/) or on [Medium](https://medium.com/@garingh128).
-I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
--->
+I have a blog that you can visit, where I share experiences, recommendations, and more. [CodeChappie Blog](https://codechappie.com/)
 
-<!-- [![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
 
 ![Code Chappie's github stats](https://github-readme-stats-teal-five.vercel.app/api?username=codechappie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://pe.linkedin.com/in/canalesalcalde). You can also ask me anything (within reason).
+If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/codechappie) or [LinkedIn](https://www.linkedin.com/company/codechappie). You can also ask me anything (within reason).
 
 ### 💬 Want to know more about me?
-You can find me on - [My website](http://codechappie.com) (in development).
+You can find me on - [My website](http://codechappie.com/)
 
 <!--
 [![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
