@@ -52,7 +52,7 @@ A person who likes to share things I have learned and am still learning.😉😉
 
 
 ### 👯 My other interests
-I have a blog that you can visit, where I share experiences, recommendations, and more. [CodeChappie Blog](https://codechappie.com/)
+I have a blog that you can visit, where I share experiences, recommendations, and more. [CodeChappie Blog](https://codechappie.com/blog)
 
 [![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
 
@@ -65,9 +65,9 @@ If you would like to discuss these things, you can join me on [Twitter](https://
 ### 💬 Want to know more about me?
 You can find me on - [My website](http://codechappie.com/)
 
-<!--
+
 [![ReadMe Card](https://github-readme-stats-teal-five.vercel.app/api/pin/?username=codechappie&repo=github-readme-stats&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/codechappie.github.io)
- -->
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
@@ -75,7 +75,7 @@ You can find me on - [My website](http://codechappie.com/)
 <a href= "https://github.com/codechappie/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/company/codechappie/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/codechappie"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<!-- <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
  
 <p align="center">
