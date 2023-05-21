@@ -1,28 +1,28 @@
 ### Hi there 👋
 <!-- ![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png) -->
 
-Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm freelancer 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
+Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). Beside's programming, I enjoy watching tv series and traveling.
  
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
-- 🌱 I’m currently learning Nest and React Native; 
+- 🌱 I’m currently learning Lit; 
 - 👯 I'm collaborating on [Fazt Community](https://github.com/faztcommunity/) 🤝;
 <!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: davidproyecto01@gmail.com;
+- 📫 How to reach me: https://www.codechappie.com;
 - 📝[Resume](https://curriculum.codechappie.com)
 
 
 **Languages and Tools:**  
-- 👨‍💻 HTML5 & CSS3
+<!-- - 👨‍💻 HTML5 & CSS3
 - 👨‍💻 JavaScript
 - 👨‍💻 React
 - 👨‍💻 Node
 - 👨‍💻 Npm
 - 👨‍💻 Git
-- 👨‍💻 Vercel
-<!-- 
+- 👨‍💻 Vercel -->
+
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/npm.png"></code>
@@ -36,8 +36,8 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm freela
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code> -->
-<!--
+<code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code> 
+
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
