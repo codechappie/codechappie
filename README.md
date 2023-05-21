@@ -1,9 +1,8 @@
-### Hi there 👋
-![](https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/Fondo.png)
+## ⚡ Hi there 👋
 
-Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! Besides programming, I enjoy watching tv series and traveling.
+I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! Besides programming, I enjoy watching tv series and traveling.
  
-**Talking about Personal Stuffs:**
+### 🧍 Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on [Watssy];
 - 🌱 I’m currently learning Lit; 
@@ -14,9 +13,9 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 - 📝[Resume](https://curriculum.codechappie.com)
 
 
-### ⚡ Languages and Tools
+### 💻 Languages and Tools
 
-💻 HTML5, CSS3, JavaScript, React, Next.js, Node, Npm, Bootstrap, Python, Firebase, Git & GitHub & GitLab & Bitbucket.
+HTML5, CSS3, JavaScript, React, Next.js, Node, Npm, Bootstrap, Python, Firebase, Git & GitHub & GitLab & Bitbucket.
 
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/node.png"></code>
@@ -33,7 +32,7 @@ Hi, I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm workin
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/codechappie/codechappie/master/assets/images/visualstudiocode.png"></code> 
 
-### ⚡ Some of my favorite open source projects
+### 💼 Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](<https://img.shields.io/badge/-Dark&#160;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485>)](https://github.com/darkreader/darkreader)
