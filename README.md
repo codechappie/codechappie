@@ -1,6 +1,6 @@
 ## ⚡ Hi there 👋
 
-I'm CodeChappie, a Front-end Developer 🚀 from Peru. Currently, I'm working on NTTDATA 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! Besides programming, I enjoy watching tv series and traveling.
+I'm CodeChappie, a Front-end Developer. Currently, I'm working on Earth 👨🏽‍💻 and Front-end Team member 👨🏽‍💼[@faztcommunity](https://github.com/faztcommunity/). I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍! Besides programming, I enjoy watching tv series and traveling.
  
 ### 🧍 Talking about Personal Stuffs:
 
