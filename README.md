@@ -4,13 +4,12 @@ I'm CodeChappie, a Front-end Developer. Currently, I'm working on Earth 👨🏽
  
 ### 🧍 Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on [Watssy];
+- 👨🏽‍💻 I’m currently working on [Curriculum];
 - 🌱 I’m currently learning Lit; 
 - 👯 I'm collaborating on [Fazt Community](https://github.com/faztcommunity/) 🤝;
-<!-- - 🤔 I’m looking for help with Mixed Reality 😭; -->
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://www.codechappie.com/enlaces;
-- 📝[Resume](https://curriculum.codechappie.com)
+- 📝[Resume](https://curriculum.codechappie.com/user/codechappie)
 
 
 ### 💻 Languages and Tools
