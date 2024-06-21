@@ -50,7 +50,7 @@ I have a blog that you can visit, where I share experiences, recommendations, an
 If you would like to discuss these things, you can write me on [Twitter](https://twitter.com/codechappie), [LinkedIn](https://www.linkedin.com/company/codechappie) or [any other social media](https://codechappie.com/enlaces). You can also ask me anything (within reason).
 
 ### 💬 Want to know more about me?
-You can find me on - [My website](http://codechappie.com/)
+You can find me on - [My website](https://www.codechappie.com/)
 
 [![Top Langs](https://github-readme-stats-teal-five.vercel.app/api/top-langs/?username=codechappie&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codechappie/github-readme-stats) 
 
